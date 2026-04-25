@@ -1,7 +1,13 @@
-# 🛡️ Cybersecurity Research — Germany Phishing Report
+ whoami
+ Mohammad Shahadat Hossain — Cybersecurity Researcher & Ethical Hacker
+Phishing Analysis | OSINT | Threat Intelligence | Kali Linux | VMware|Virtual box Lab set up error handeling 
+## 📁 Files
 
-**Author:** Mohammad Shahadat Hossain
-**Brand:** MSHOSSAIN — Because Your Data Deserves Protection
- Germany_Phishing_Report.pdf 
-Shwapno Customer Data Leakage 
- ল্যাব সেটআপ ও এরর ট্রাবলশুটিং | ল্যাব গাইড  
+| File | Description |
+|------|-------------|
+| 📄 Germany_Phishing_Report.pdf | Phishing threat analysis — Finance & Manufacturing |
+| 🔍 Shwapno Customer Data Leakage | OSINT-based PII exposure case study |
+| 🧪 Lab Setup & Troubleshooting | Kali Linux setup guide for VirtualBox & VMware |
+
+## 🛡️ Disclaimer
+All research is conducted ethically for educational purposes only.
